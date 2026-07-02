@@ -7,7 +7,7 @@ Es gab auch ein Energiesystem um passend zwischen Waffen und Schilden zu verteil
 
 Habe auch eine Maussteuerung eingebaut, damit du als Single-Player auf dem Handy spielen kannst. Ich sag mal: Viel Erfolg dabei.
 
-Ach ja: Ich hatte das Spiel in den letzten Jahren schon 2x programmiert. 1x in Scratch. Das war angenehm einfach, auch wenn ich dort nicht die ganzen Feature reinfrickeln möchte die es hier im html gibt. Danach 1x in python in einer Datei ohne Bilder zu laden. Fühlte sich an wie assembler schreiben. Jede Linie selbst ziehen und unendliche koordinatentransformationen.
+Ach ja: Ich hatte das Spiel in den letzten Jahren schon 2x programmiert. 1x in Scratch. Das war angenehm einfach, auch wenn ich dort nicht die ganzen Feature reinfrickeln möchte die es hier im html gibt. Danach 1x in python in einer Datei ohne Bilder zu laden. Fühlte sich an wie assembler schreiben. Jede Linie selbst ziehen und unendliche Koordinatentransformationen.
 
 ---
 ## Live-Demo
